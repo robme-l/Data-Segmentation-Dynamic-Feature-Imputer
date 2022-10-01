@@ -4,7 +4,7 @@ A dynamic imputer that optimizes feature selection and segments subsets of data 
 This is from an unpublished paper I am able to make public from a non-disclosed project, the architecture of which is displayed below:
 
 <p align="center">
-  <img alt="Imputer Architecture" src="https://github.com/robme-l/Segmentation-Dynamic-Imputer/blob/main/imputer_architecture.PNG" width="45%">
+  <img alt="Imputer Architecture" src="https://github.com/robme-l/Data-Segmentation-Dynamic-Feature-Imputer/blob/main/imputer_architecture.PNG" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
